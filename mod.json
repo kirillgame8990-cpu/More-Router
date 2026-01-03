@@ -1,0 +1,10 @@
+{
+ "name": "More Router",
+ "displayName": "More Router",
+ "author": "kirillVIP8990",
+ "description": "Добовляет 4 новых машрутизатора(роутера)",
+ "version": "1.0ROUTER",
+
+ "minGameVersion": "136",
+ "dependencies": []
+}
